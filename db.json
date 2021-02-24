@@ -1,6 +1,5 @@
 
-module.exports = function () {
-  return {
+ {
     "posts": [
       {
     "svg": "https://res.cloudinary.com/dem2xvk2e/image/upload/v1614190372/Discover_qrh2td.svg",
@@ -31,7 +30,7 @@ module.exports = function () {
  "profile": {
     "name": "typicode"
   }
-  },
+ 
     
 }
 
