@@ -1,5 +1,4 @@
-{
-  "posts": [
+[
     {
       "svg": "https://res.cloudinary.com/dem2xvk2e/image/upload/v1614190372/Discover_qrh2td.svg",
       "title": "Discover",
@@ -25,8 +24,4 @@
       "title": "Deliver",
       "para": "Our goal is to fully understand each client's business and the environment in which it operates.We look to completely understand the target audience and how they will interact with the digital products we deliver."
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
-}
+  ]
