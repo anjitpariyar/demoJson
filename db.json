@@ -4,7 +4,7 @@
     "svgdark": "https://res.cloudinary.com/dem2xvk2e/image/upload/v1614421247/Roadmap/discover_czrf7j.svg",
     "title": "Discover",
     "para": "Our aim is to become a (supporting) partner for our clients, that thoroughly understands their market and goals before starting to plan for their business growth. We explore our client’s specific business needs and target audience in depth to execute strategies accordingly.",
-    "lists": [null]
+    "lists": null
   },
   {
     "svg": "https://res.cloudinary.com/dem2xvk2e/image/upload/v1614190372/Strategy_s4uvrt.svg",
@@ -53,6 +53,6 @@
     "title": "Deliver",
     "para": "We aim to deliver high quality digital products and services for your business needs. Client’s marketing techniques will be aligned in a digitized way to achieve measurable results. Our digital marketing services will deliver the desired results with the help of professionals.",
     "servicePara": "Explore business-boosting concepts before taking them to market with - robust testing, project predictions and expert roadmapping.",
-    "lists": [null]
+    "lists": null
   }
 ]
